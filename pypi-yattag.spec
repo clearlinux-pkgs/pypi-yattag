@@ -7,7 +7,7 @@
 #
 Name     : pypi-yattag
 Version  : 1.15.2
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/75/49/51045efa8c4e42831c80e0031ee4139450347e587e5cda0a731198ed6e36/yattag-1.15.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/75/49/51045efa8c4e42831c80e0031ee4139450347e587e5cda0a731198ed6e36/yattag-1.15.2.tar.gz
 Summary  : Generate HTML or XML in a pythonic way. Pure python alternative to web template engines.Can fill HTML forms with default values and error messages.
